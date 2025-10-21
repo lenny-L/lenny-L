@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lenny-L
-- 👀 I’m interested in Python/Golang/native_cloud
-- 🌱 I’m currently learning Goland
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Python/AI
+- 🌱 I’m currently learning AI agent
+- 📫 It's nice to meet you
 
 <!---
 lenny-L/lenny-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
